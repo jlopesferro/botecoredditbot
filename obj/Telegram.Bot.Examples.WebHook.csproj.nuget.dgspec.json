@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gabriel\\Desktop\\Telegram.Bot.Examples.WebHook\\Telegram.Bot.Examples.WebHook.csproj": {}
+    "C:\\Users\\Gabriel\\Desktop\\bot\\Telegram.Bot.Examples.WebHook.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gabriel\\Desktop\\Telegram.Bot.Examples.WebHook\\Telegram.Bot.Examples.WebHook.csproj": {
+    "C:\\Users\\Gabriel\\Desktop\\bot\\Telegram.Bot.Examples.WebHook.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gabriel\\Desktop\\Telegram.Bot.Examples.WebHook\\Telegram.Bot.Examples.WebHook.csproj",
+        "projectUniqueName": "C:\\Users\\Gabriel\\Desktop\\bot\\Telegram.Bot.Examples.WebHook.csproj",
         "projectName": "Telegram.Bot.Examples.WebHook",
-        "projectPath": "C:\\Users\\Gabriel\\Desktop\\Telegram.Bot.Examples.WebHook\\Telegram.Bot.Examples.WebHook.csproj",
+        "projectPath": "C:\\Users\\Gabriel\\Desktop\\bot\\Telegram.Bot.Examples.WebHook.csproj",
         "packagesPath": "C:\\Users\\Gabriel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gabriel\\Desktop\\Telegram.Bot.Examples.WebHook\\obj\\",
+        "outputPath": "C:\\Users\\Gabriel\\Desktop\\bot\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config",

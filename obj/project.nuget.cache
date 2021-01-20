@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iYuZth/ZaI4l2FbVNIBIVMr95QHQtMIuPbwcXW1FEtiTVfLjd5w5/aem5ONOVk1c9OCEcp7MvrwyHnKHTin6ow==",
+  "dgSpecHash": "zu3UYzNtjSv3NIgiSKXx2X6DcprQg5g9gM6P3Wmaq3yEoPaOS3UvbMoiZHohATfeEx+8gQJTsSIxNLu2ZywicQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Gabriel\\Desktop\\Telegram.Bot.Examples.WebHook\\Telegram.Bot.Examples.WebHook.csproj",
+  "projectFilePath": "C:\\Users\\Gabriel\\Desktop\\bot\\Telegram.Bot.Examples.WebHook.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Gabriel\\.nuget\\packages\\httptosocks5proxy\\1.4.0\\httptosocks5proxy.1.4.0.nupkg.sha512",
     "C:\\Users\\Gabriel\\.nuget\\packages\\microsoft.applicationinsights\\2.16.0\\microsoft.applicationinsights.2.16.0.nupkg.sha512",
