@@ -126,7 +126,7 @@ namespace Telegram.Bot.Examples.WebHook.Controllers
         private async void RojaoTop()
         {
 
-            Responder("Ôpa, demorou! Vou preparar, aguenta ae");
+            Responder("Ôpa, demorou! To acendendo, aguenta ae");
             Thread.Sleep(8000);
             rojao();
         }
@@ -156,7 +156,18 @@ namespace Telegram.Bot.Examples.WebHook.Controllers
                 case 4:
                     Responder("Outra Brahma?!?");
                     break;
-
+                case 5:
+                    Responder("Aguenta ai, to atendendo outra mesa!");
+                    break;
+                case 6:
+                    Responder("E ai, como tá patrão? Veio Afogar as mágoas?!");
+                    break;
+                case 7:
+                    Responder("Já adianto que hoje só tem Nova Schin e Glacial!");
+                    break;
+                case 8:
+                    Responder("Tu por aqui de novo? Mulher epulsou de casa, foi?!");
+                    break;
             }
             
         }
