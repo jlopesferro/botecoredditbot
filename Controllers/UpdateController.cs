@@ -166,7 +166,10 @@ namespace Telegram.Bot.Examples.WebHook.Controllers
                     Responder("Já adianto que hoje só tem Nova Schin e Glacial!");
                     break;
                 case 8:
-                    Responder("Tu por aqui de novo? Mulher epulsou de casa, foi?!");
+                    Responder("Tu por aqui de novo? Mulher expulsou de casa, foi?!");
+                    break;
+                case 9:
+                    Responder("Da outra vez tu deixou umas na pendura aqui, chefe tá atrás de voce!");
                     break;
             }
             
