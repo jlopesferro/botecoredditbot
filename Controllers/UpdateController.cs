@@ -154,7 +154,7 @@ namespace Telegram.Bot.Examples.WebHook.Controllers
                     Responder("Pois sim");
                     break;
                 case 4:
-                    Responder("Outra Brahma?!?");
+                    Responder("Outra Brahma? Skol?");
                     break;
                 case 5:
                     Responder("Aguenta ai, to atendendo outra mesa!");
@@ -170,6 +170,9 @@ namespace Telegram.Bot.Examples.WebHook.Controllers
                     break;
                 case 9:
                     Responder("Da outra vez tu deixou umas na pendura aqui, chefe tá atrás de voce!");
+                    break;
+                case 10:
+                    Responder("Opa! Já trago teu maço de Eight e a dose de Catuaba");
                     break;
             }
             
